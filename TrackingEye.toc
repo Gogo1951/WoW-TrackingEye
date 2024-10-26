@@ -2,7 +2,7 @@
 ## Author: Linden Ryuujin
 ## Version: 2.0.1
 
-# Interface: 11504
+## Interface: 11504
 
 ## SavedVariables: TrackingEyeDB
 ## OptionalDeps: Ace3, Masque, LibButtonGlow-1.0, LibActionButton-1.0, LibKeyBound-1.0, LibDBIcon-1.0, LibWindow-1.1, LibDualSpec-1.0
